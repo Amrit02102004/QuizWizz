@@ -57,8 +57,6 @@ public class Base {
                     });
                 }
             });
-
-            // Add action listener to the register button
             registerButton.addActionListener(new ActionListener() {
                 @Override
                 public void actionPerformed(ActionEvent e) {
